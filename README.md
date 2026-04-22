@@ -24,7 +24,7 @@
   <h2># profile statistics</h2>
 
   <p><b>» profile views</b></p>
-  <img src="https://komarev.com/ghpvc/?username=writepoems&label=👀%20%20%20&style=for-the-badge&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=writepoems&label=👀%20%20%20&style=for-the-badge&color=red" />
 
   <hr />
 
