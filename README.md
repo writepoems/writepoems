@@ -14,6 +14,9 @@
     <li>
       <a href="https://github.com/writepoems/cinch">cinch</a> - No-bloat to-do web app made with React
     </li>
+    <li>
+      <a href="https://github.com/writepoems/maarifah">maarifah</a> - Free and open source Quran API <sub>Work in progress</sub>
+    </li>
   </ul>
   
   <h2># skills && languages</h2>
