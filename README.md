@@ -8,7 +8,12 @@
 <div>
   <h2># projects</h2>
   <ul>
-    <li>caesar-go | <a href="https://github.com/writepoems/caesar-go">repository</a></li>
+    <li>
+      <a href="https://github.com/writepoems/caesar-go">caesar-go</a> - Simple implementation of the Caesar cipher in Go
+    </li>
+    <li>
+      <a href="https://github.com/writepoems/cinch">cinch</a> - No-bloat to-do web app made with React
+    </li>
   </ul>
   
   <h2># skills && languages</h2>
