@@ -9,13 +9,13 @@
   <h2># projects</h2>
   <ul>
     <li>
-      <a href="https://github.com/writepoems/caesar-go">caesar-go</a> - Simple implementation of the Caesar cipher in Go
-    </li>
-    <li>
       <a href="https://github.com/writepoems/cinch">cinch</a> - No-bloat to-do web app made with React
     </li>
     <li>
       <a href="https://github.com/writepoems/maarifah">maarifah</a> - Free and open source Quran API <sub>Work in progress</sub>
+    </li>
+    <li>
+      <a href="https://github.com/writepoems/caesar-go">caesar-go</a> - Simple implementation of the Caesar cipher in Go <sub>Unmaintained</sub>
     </li>
   </ul>
   
