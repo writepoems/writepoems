@@ -22,7 +22,7 @@
   <h2># skills && languages</h2>
 
   <p>still learning a few, and might learn more</p>
-  <img src="https://skillicons.dev/icons?i=html,js,typescript,tailwind,bun,postgres,react,vue,svelte,python" />
+  <img src="https://skillicons.dev/icons?i=html,js,typescript,tailwind,react,postgres" />
 
   <h2># profile statistics</h2>
 
